@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    margin-top: 20px;
+}
+.table {
+    background-color: #fff;
+}
+.table-danger {
+    background-color: #f8d7da;
+}
